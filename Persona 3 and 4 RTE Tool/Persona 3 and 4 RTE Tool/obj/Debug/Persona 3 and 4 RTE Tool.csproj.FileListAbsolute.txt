@@ -1,0 +1,10 @@
+C:\Users\Taireru Benaru\source\repos\Persona 3 and 4 RTE Tool\Persona 3 and 4 RTE Tool\bin\Debug\Persona 3 and 4 RTE Tool.exe.config
+C:\Users\Taireru Benaru\source\repos\Persona 3 and 4 RTE Tool\Persona 3 and 4 RTE Tool\bin\Debug\Persona 3 and 4 RTE Tool.exe
+C:\Users\Taireru Benaru\source\repos\Persona 3 and 4 RTE Tool\Persona 3 and 4 RTE Tool\bin\Debug\Persona 3 and 4 RTE Tool.pdb
+C:\Users\Taireru Benaru\source\repos\Persona 3 and 4 RTE Tool\Persona 3 and 4 RTE Tool\obj\Debug\Persona 3 and 4 RTE Tool.csprojResolveAssemblyReference.cache
+C:\Users\Taireru Benaru\source\repos\Persona 3 and 4 RTE Tool\Persona 3 and 4 RTE Tool\obj\Debug\Persona_3_and_4_RTE_Tool.Form1.resources
+C:\Users\Taireru Benaru\source\repos\Persona 3 and 4 RTE Tool\Persona 3 and 4 RTE Tool\obj\Debug\Persona_3_and_4_RTE_Tool.Properties.Resources.resources
+C:\Users\Taireru Benaru\source\repos\Persona 3 and 4 RTE Tool\Persona 3 and 4 RTE Tool\obj\Debug\Persona 3 and 4 RTE Tool.csproj.GenerateResource.cache
+C:\Users\Taireru Benaru\source\repos\Persona 3 and 4 RTE Tool\Persona 3 and 4 RTE Tool\obj\Debug\Persona 3 and 4 RTE Tool.csproj.CoreCompileInputs.cache
+C:\Users\Taireru Benaru\source\repos\Persona 3 and 4 RTE Tool\Persona 3 and 4 RTE Tool\obj\Debug\Persona 3 and 4 RTE Tool.exe
+C:\Users\Taireru Benaru\source\repos\Persona 3 and 4 RTE Tool\Persona 3 and 4 RTE Tool\obj\Debug\Persona 3 and 4 RTE Tool.pdb
